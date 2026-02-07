@@ -4,7 +4,6 @@
 > *Training AI on sensitive patient data without ever moving the data.*
 
 ![Dashboard Demo](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/dashboard_screenshot.png?raw=true)
-*(Replace this link with your actual screenshot)*
 
 ## 🚨 The Problem
 Medical AI research is hitting a wall. To cure rare diseases (like Glioma or Meningioma brain tumors), researchers need massive datasets. However, hospitals **cannot share patient data** due to strict privacy laws (HIPAA/GDPR).
@@ -36,19 +35,6 @@ Medical AI research is hitting a wall. To cure rare diseases (like Glioma or Men
     ```bash
     pip install -r requirements.txt
     ```
-2.  **Start the Central Server:**
+2.  **Start the Project:**
     ```bash
-    python src/server.py
-    ```
-3.  **Start Hospital A (Terminal 2):**
-    ```bash
-    python src/client.py 0
-    ```
-4.  **Start Hospital B (Terminal 3):**
-    ```bash
-    python src/client.py 1
-    ```
-5.  **Launch Dashboard:**
-    ```bash
-    streamlit run src/dashboard.py
-    ```
+    .\run_hackathon.ps1
