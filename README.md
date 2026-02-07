@@ -3,7 +3,7 @@
 > **Winner of the InnoData Hackathon Challenge** (fingers crossed!)  
 > *Training AI on sensitive patient data without ever moving the data.*
 
-![Dashboard Demo](https://github.com/YOUR_USERNAME/YOUR_REPO/blob/main/dashboard_screenshot.png?raw=true)
+![Dashboard Demo](https://github.com/veerakarthick235/FedMed/blob/main/fed_med.png?raw=true)
 
 ## 🚨 The Problem
 Medical AI research is hitting a wall. To cure rare diseases (like Glioma or Meningioma brain tumors), researchers need massive datasets. However, hospitals **cannot share patient data** due to strict privacy laws (HIPAA/GDPR).
